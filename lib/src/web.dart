@@ -1,0 +1,1 @@
+getProvider(String s) => NetworkImage(s);
